@@ -1,1 +1,1 @@
-Our hero went out on an epic quest. To shop at Walmart and not miss a single item on the shoppinglist.
+Our hero went out on an epic quest. To shop at Walmart and not miss a single item on the shoppinglist. To do that he needed to fetch, merge and pull the list from github.
